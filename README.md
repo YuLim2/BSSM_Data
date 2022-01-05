@@ -1,7 +1,6 @@
 ## 📠 특강으로 진행한 데이터 분석 공부 정리
 
 <br>
-<br>
 
 ### 1️⃣ pandas 정복하기! 🐼
 
@@ -11,14 +10,12 @@
 - <a href="https://github.com/YuLim2/BSSM_Data/blob/master/pandas_basic3.ipynb">판다스 기초3</a>
 
 <br>
-<br>
 
 ### 2️⃣ json, urllib 모듈 공부 🔨
 
 - <a href="https://github.com/YuLim2/BSSM_Data/blob/master/json.ipynb">json 모듈</a>
 - <a href="https://github.com/YuLim2/BSSM_Data/blob/master/urllib.ipynb">urllib 모듈</a>
 
-<br>
 <br>
 
 ### 3️⃣ scikit 모듈 사용하여 머신러닝 🎢
